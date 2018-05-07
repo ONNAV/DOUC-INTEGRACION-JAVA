@@ -270,7 +270,7 @@
 </style>
     
 <body>
-    <form class="login" action="arrendar.jsp">
+    <form class="login" action="Arrendar.jsp">
         <img src="imagenes/logo.png" border="1" alt="" width="250" height="180">
         <h1 class="login-title">Inicio de Sesión</h1>
         <input type="text" class="login-input" placeholder="usuario" autofocus>
